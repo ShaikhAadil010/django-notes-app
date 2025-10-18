@@ -11,6 +11,7 @@ import NotePage from './pages/NotePage';
 
 function App() {
   return (
+    // Important for cicd
     <Router>
       <div className="container dark">
         <div className="app">
