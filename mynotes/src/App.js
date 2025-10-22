@@ -12,7 +12,7 @@ import NotePage from './pages/NotePage';
 
 function App() {
   return (
-    // Important for cicd piplines with jenkins
+    // Important for cicd piplines with jenkins using with shared library
     <Router>
       <div className="container dark">
         <div className="app">
